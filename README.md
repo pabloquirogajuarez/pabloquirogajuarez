@@ -6,18 +6,6 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="left"></h2>
-
-###
-
-<br clear="both">
-
-<p align="left"></p>
-
-###
-
 <h2 align="left"></h2>
 
 ###
