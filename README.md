@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pablo and I'm a Full Stack Dev Jr, from Argentina.</p>
+<p align="left">My name is Pablo and I'm a Full Stack Web Dev from Argentina.</p>
 
 ###
 
